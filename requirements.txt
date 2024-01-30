@@ -5,3 +5,4 @@ pandas-datareader
 yfinance
 keras 
 tensorflow
+matplotlib
